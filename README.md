@@ -5,7 +5,7 @@ Contact me! <wldus5059@gmail.com>
 
 * * *
 ### 🤩 Interests
-* C++, Python3
+* C++, Python
 
 
 
