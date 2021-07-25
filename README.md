@@ -12,15 +12,16 @@ Contact me! <wldus5059@gmail.com>
 
 * * *
 
-### 💻 CAREER
+### 💻 Education Training
+
 #### 
 * 
 * 2020.11 - 
 
 ### 🎓 EDUCATION
-#### suncheonjeil 
-*    
-*    
+#### University : SuncheonJeil 
+*  Computer Science
+*  2016.03.01 ~ 2018.02.01  
 
 
 * * *
