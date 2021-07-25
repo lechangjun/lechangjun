@@ -39,7 +39,7 @@ Contact me! <wldus5059@gmail.com>
 | <a href= target="_blank">Nanal Calender</a> | Android Studio, Eclipse, Brackets | 2019-03 ~ 2019-11 (9 months) |
 | <a href= target="_blank">Job Seeker A</a> | Java | 2019-06 (1 week) |
 
-+ <a href="" target="_blank">and more... (google drive)</a>
+
 * * *
 
 ### 🌱 STUDY
