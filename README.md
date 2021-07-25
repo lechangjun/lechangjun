@@ -32,12 +32,11 @@ Contact me! <wldus5059@gmail.com>
 ### 🎮 PROJECT
 | project | environment |  |
 |-------|--------|-------|
-| <a href=</a> | C#, Visual Studio | 2020-10 (1 week) |
-| <a href= target="_blank">Crosscode(team)</a> | C++, Direct2D | 2020-08 (2 weeks) |
-| <a href= target="_blank">River City Girls(team)</a> | C++, Visual Studio | 2020-07 (1 week) |
-| <a href= target="_blank">Momodora 3</a> | C++, Visual Studio, WinAPI | 2020-06 (1 week) |
-| <a href= target="_blank">Nanal Calender</a> | Android Studio, Eclipse, Brackets | 2019-03 ~ 2019-11 (9 months) |
-| <a href= target="_blank">Job Seeker A</a> | Java | 2019-06 (1 week) |
+| <a href="https://github.com/lechangjun/PORTFOLIO--OpenShift_Deploy" target="_blank">OpenShift</a> | Ansible, Shell script, AWSCli | 2020-09 ~ 2020-10  |
+| <a href="https://github.com/lechangjun/ISMS_security_repository">ISMS</a> | Shell script, Security  | 2020-11 ~ 2021-01 |
+| <a href="https://github.com/lechangjun/ISMS_security_repository">Python System management</a> |Python   | 2020-11 ~ 2021-01 |
+| <a href="https://github.com/lechangjun/PORTFOLIO--Game_Collection" target="_blank">memory game</a> | C++, Visual Studio, WinAPI, Directx | 2021-04  |
+
 
 
 * * *
