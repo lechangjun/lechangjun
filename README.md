@@ -14,7 +14,7 @@ Contact me! <wldus5059@gmail.com>
 
 ### 💻 Education Training
 
-#### 
+#### RAPA (한국전파진흥협회)
 * 2020.05.11 ~ 20.10.30 
 
 
