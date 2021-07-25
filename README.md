@@ -15,8 +15,12 @@ Contact me! <wldus5059@gmail.com>
 ### 💻 Education Training
 
 #### 
-* 
-* 2020.11 - 
+* 2020.05.11 ~ 20.10.30 
+
+
+#### SGA (Seoul Game Academy)
+* 2021.04.19 ~ 
+
 
 ### 🎓 EDUCATION
 #### University : SuncheonJeil 
