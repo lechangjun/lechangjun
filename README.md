@@ -34,8 +34,8 @@ Contact me! <wldus5059@gmail.com>
 |-------|--------|-------|
 | <a href="https://github.com/lechangjun/PORTFOLIO--OpenShift_Deploy" target="_blank">OpenShift</a> | Ansible, Shell script, AWSCli | 2020-09 ~ 2020-10  |
 | <a href="https://github.com/lechangjun/ISMS_security_repository">ISMS</a> | Shell script, Security  | 2020-11 ~ 2021-01 |
-| <a href="https://github.com/lechangjun/ISMS_security_repository">Python System management</a> |Python   | 2020-11 ~ 2021-01 |
-| <a href="https://github.com/lechangjun/PORTFOLIO--Game_Collection" target="_blank">memory game</a> | C++, Visual Studio, WinAPI, Directx | 2021-04  |
+| <a href="https://github.com/lechangjun/ISMS_security_repository">Python System management</a> |Python   | 2021-01 ~ |
+| <a href="https://github.com/lechangjun/PORTFOLIO--Game_Collection" target="_blank">memory game</a> | C++, Visual Studio, WinAPI, Directx | 2021-04 ~ |
 
 
 
