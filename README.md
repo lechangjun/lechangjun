@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 😎 Lechangjun (Lee changjun)
+### 😎 Lechangjun (Lee chang Jun)
 Contact me! <wldus5059@gmail.com>
 
 * * *
