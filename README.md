@@ -43,7 +43,7 @@ Contact me! <wldus5059@gmail.com>
 * * *
 
 ### 🌱 STUDY
-* LeetCode - <a href= target="_blank">github</a> <a href= target="_blank">LeetCode</a>
+* SGA C++ Study - <a href="https://github.com/lechangjun/STUDY-Game_Development_SGA" target="_blank">github</a>
 * Programmers - <a href= target="_blank">github</a>
 * Baekjoon OJ - <a href= target="_blank">github</a>
 
