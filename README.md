@@ -43,8 +43,8 @@ Contact me! <wldus5059@gmail.com>
 * * *
 
 ### 🌱 STUDY
-* SGA C++ Study - <a href="https://github.com/lechangjun/STUDY-Game_Development_SGA" target="_blank">STUDY-Game_Development_SGA
-</a>
+* SGA C++ Study - <a href="https://github.com/lechangjun/STUDY-Game_Development_SGA" target="_blank">shared storage</a>
+* Directx2D - <a href="https://github.com/lechangjun/STUDY-Directx2D" target="_blank"> STUDY-Directx2D </a>
 * Programmers - <a href= target="_blank">github</a>
 * Baekjoon OJ - <a href= target="_blank">github</a>
 
