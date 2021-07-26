@@ -8,6 +8,7 @@ Contact me! <wldus5059@gmail.com>
 * C++, Python
 
 
+### 💪 SKILS
 
 
 * * *
