@@ -58,3 +58,9 @@ Contact me! <wldus5059@gmail.com>
 
 ---------------------------------------------------------------------------------------------------------
 ### Interests (๑・‿・๑)
+
+| name | link | reference |
+|-------|--------|--------|
+| Prometheus | <a href="https://github.com/lechangjun/prometheus" target="_blank">github</a> | <a href="https://github.com/prometheus" target="_blank">Prometheus</a> |
+| Grafana #3 | <a href="https://github.com/lechangjun/grafana" target="_blank">github</a> | <a href="https://github.com/grafana" target="_blank">grafana</a> |
+| it 취업을 위한 알고리즘 문제풀이 (with C/C++) | <a href="https://github.com/lechangjun/go" target="_blank">github</a> | <a href="https://github.com/golang" target="_blank">GO</a> |
