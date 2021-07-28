@@ -15,7 +15,7 @@ Contact me! <wldus5059@gmail.com>
 
 ### 💻 Education Training
 
-#### RAPA (한국전파진흥협회)
+#### RAPA (한국전파진흥협회) -> 클라우드 교육 기관
 * 2020.05.11 ~ 20.10.30 
 
 
