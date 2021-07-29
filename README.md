@@ -54,7 +54,7 @@ Contact me! <wldus5059@gmail.com>
 |-------|--------|--------|
 | GAME SERVER | <a href="https://github.com/lechangjun/STUDY-Server" target="_blank">github</a> | <a href="https://github.com/nhn/gameanvil.sample-game-server" target="_blank">NHN_SAMPLE-SERVER</a> |
 | Directx2D #3 | <a href="https://github.com/lechangjun/STUDY-Directx2D" target="_blank">github</a> | <a href="https://github.com/Excelsus4" target="_blank">github</a> |
-| it 취업을 위한 알고리즘 문제풀이 (with C/C++) | <a href="https://github.com/Knabin/AlgorithmQ" target="_blank">github</a> | <a href="https://github.com/lechangjun/Algorithm" target="_blank">review</a> |
+| it 취업을 위한 알고리즘 문제풀이 (with C/C++) | <a href="https://github.com/lechangjun/Algorithm" target="_blank">github</a> | <a href="https://github.com/Knabin/AlgorithmQ" target="_blank">review</a>
 
 ---------------------------------------------------------------------------------------------------------
 ### Interests (๑・‿・๑)
