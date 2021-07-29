@@ -9,10 +9,7 @@ Contact me! <wldus5059@gmail.com>
 
 
 ### 💪 SKILS
-* Cloud
-
-
-AWS (Cli), GCP
+* Cloud : AWS (Cli), GCP
 
 * * *
 
