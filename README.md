@@ -10,7 +10,7 @@ Contact me! <wldus5059@gmail.com>
 
 ### 💪 SKILS
 * Cloud : AWS (Cli), GCP
-
+* 
 * * *
 
 ### 💻 Education Training
@@ -20,7 +20,11 @@ Contact me! <wldus5059@gmail.com>
 
 
 #### SGA (Seoul Game Academy)
-* 2021.04.19 ~ 
+* 2021.04.19 ~ 2021.08.08
+
+#### SSAC
+* 
+
 
 
 ### 🎓 EDUCATION
