@@ -11,12 +11,12 @@ Contact me! <wldus5059@gmail.com>
 ### 💪 SKILS
 * Cloud : AWS (Cli), GCP
 * 
-* * *
 
 ### 🤖 Tech Stack
 * ansible, terraform
 * c++, Python
 *
+* * *
 
 ### 💻 Education Training
 
