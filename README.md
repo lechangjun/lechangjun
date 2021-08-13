@@ -13,6 +13,11 @@ Contact me! <wldus5059@gmail.com>
 * 
 * * *
 
+### 🤖 Tech Stack
+* ansible, terraform
+* c++, Python
+*
+
 ### 💻 Education Training
 
 #### RAPA (한국전파진흥협회) -> 클라우드 교육 기관
