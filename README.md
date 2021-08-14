@@ -16,7 +16,7 @@ Contact me! <wldus5059@gmail.com>
 
       1. Infra : Ansible, K8S. docker
       2. DATA : 
-      3. WEB & MOBILE (DEV) : DJANGO
+      3. WEB & MOBILE (DEV) : DJANGO(web)
       4. GAME : DirectX, WIN API
 
 * * *
