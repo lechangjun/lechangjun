@@ -4,10 +4,6 @@
 Contact me! <wldus5059@gmail.com>
 
 * * *
-### 🤩 Interests
-* C++, Python
-
-
 ### 💪 SKILS
 * Cloud : AWS (Cli), GCP
 * 
