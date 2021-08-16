@@ -55,9 +55,7 @@ Contact me! <wldus5059@gmail.com>
 * * *
 
 ### 🌱 STUDY
-* SGA C++ Study - <a href="https://github.com/lechangjun/STUDY-Game_Development_SGA" target="_blank">shared storage</a>
-* Directx2D - <a href="https://github.com/lechangjun/STUDY-Directx2D" target="_blank"> STUDY-Directx2D </a>
-* STUDY-Unreal_Engine - <a href="https://github.com/lechangjun/STUDY-Unreal_Engine" target="_blank">STUDY-Unreal</a>
+* 🦀 Monitoring - <a href="https://github.com/lechangjun/STUDY_Monitoring" target="_blank"> Monitoring </a>
 * STUDY-Golang - <a href="https://github.com/lechangjun/STUDY-com2us_Golang_socketGameServer" target="_blank">STUDY-Golang</a>
 
 
