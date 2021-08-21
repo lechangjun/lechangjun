@@ -13,7 +13,6 @@ Contact me! <wldus5059@gmail.com>
 * tools -> Ansible, K8S, Direct, WIN API, DJANGO
 * Development (experience)
 
-
       1. Infra : Ansible, K8S. docker
       2. DATA : 
       3. WEB & MOBILE (DEV) : DJANGO(web)
@@ -57,6 +56,7 @@ Contact me! <wldus5059@gmail.com>
 ### 🌱 STUDY
 * 🦀 Monitoring - <a href="https://github.com/lechangjun/STUDY_Monitoring" target="_blank"> Monitoring </a>
 * STUDY-Golang - <a href="https://github.com/lechangjun/STUDY-com2us_Golang_socketGameServer" target="_blank">STUDY-Golang</a>
+* Data analysis
 
 
 
@@ -72,7 +72,5 @@ Contact me! <wldus5059@gmail.com>
 
 | name | link | reference |
 |-------|--------|--------|
-| Prometheus | <a href="https://github.com/lechangjun/prometheus" target="_blank">github</a> | <a href="https://github.com/prometheus" target="_blank">Prometheus</a> |
-| Grafana #3 | <a href="https://github.com/lechangjun/grafana" target="_blank">github</a> | <a href="https://github.com/grafana" target="_blank">grafana</a> |
 | GO | <a href="https://github.com/lechangjun/go" target="_blank">github</a> | <a href="https://github.com/golang" target="_blank">GO</a> |
 | Kubernetes | <a href="https://github.com/lechangjun" target="_blank">github</a> | <a href="https://github.com/topics/kubernetes" target="_blank">kubernetes</a> |
