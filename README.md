@@ -10,12 +10,12 @@ Contact me! <wldus5059@gmail.com>
 
 ### 🤖 Tech Stack
 * language -> c++, Python
-* tools -> Ansible, K8S, Direct, WIN API, DJANGO
+* tools -> Ansible, K8S, Direct, WIN API, 
 * Development (experience)
 
       1. Infra : Ansible, K8S. docker
       2. DATA : 
-      3. WEB & MOBILE (DEV) : DJANGO(web)
+      3. WEB & MOBILE (DEV) : X
       4. GAME : DirectX, WIN API
 
 * * *
