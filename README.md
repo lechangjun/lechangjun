@@ -57,7 +57,8 @@ Contact me! <wldus5059@gmail.com>
 ### 🌱 STUDY
 * 🦀 Monitoring - <a href="https://github.com/lechangjun/STUDY_Monitoring" target="_blank"> Monitoring </a>
 * STUDY-Golang - <a href="https://github.com/lechangjun/STUDY-com2us_Golang_socketGameServer" target="_blank">STUDY-Golang</a>
-* SSAC (Data analysis) - <a href="https://github.com/lechangjun/Toy-Projects_SSAC" target="_blank">Data analysis</a>
+* SSAC (Data analysis) - <a href="https://github.com/lechangjun/Toy-Projects_SSAC" target="_blank">software development
+</a>
 
 
 
