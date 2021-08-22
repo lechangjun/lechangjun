@@ -9,7 +9,7 @@ Contact me! <wldus5059@gmail.com>
 
 ### 🤖 Tech Stack
 * language -> c++, Python
-* tools -> Ansible, K8S, Direct, WIN API, 
+* tools -> Ansible, K8S, Direct, WIN API 
 * Development (experience)
 
       1. Infra : Ansible, K8S. docker
