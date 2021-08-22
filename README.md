@@ -47,7 +47,7 @@ Contact me! <wldus5059@gmail.com>
 | <a href="https://github.com/lechangjun/ISMS_security_repository">ISMS</a> | Shell script, Security  | 2020-11 ~ 2021-01 |
 | <a href="https://github.com/lechangjun/Python_System_Management">Python System management</a> |Python   | 2021-01 ~ 2021-07 |
 | <a href="https://github.com/lechangjun/PORTFOLIO--Game_Collection" target="_blank">memory game</a> | C++, Visual Studio, WinAPI, Directx | 2021-04 ~ 2021-08|
-| <a href="https://github.com/lechangjun/Toy-Projects_SSAC" target="_blank"> Proceeding </a> | Python, MYSQL,  | 2021-08 ~ |
+| <a href="https://github.com/lechangjun/Toy-Projects_SSAC" target="_blank"> SSAC (미 완성) </a> | Python, MYSQL,  | 2021-08 ~ |
 
 
 
