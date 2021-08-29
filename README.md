@@ -7,7 +7,7 @@ Contact me! <wldus5059@gmail.com>
 ### 💪 SKILS
 * Cloud : AWS (Cli), GCP, naver cloud
 
-### 🤖 Tech Stack
+### 🤖 Tech Stack -> Systems engineering, Game Developer 
 * language -> c++, Python
 * tools -> Ansible, K8S, Direct, WIN API 
 * Development (experience)
