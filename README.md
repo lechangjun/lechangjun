@@ -4,7 +4,6 @@
 Contact me! <wldus5059@gmail.com>
 
 
-이창준 바보
 * * *
 ### 💪 SKILS
 * Cloud : AWS (Cli), GCP, naver cloud
