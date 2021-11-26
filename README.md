@@ -3,37 +3,6 @@
 ### 😎 Lechangjun (Lee Chang Jun)
 Contact me! <wldus5059@gmail.com>
 
-
-* * *
-### 💪 SKILS
-* Cloud : AWS (Cli), GCP, naver cloud
-
-### 🤖 Tech Stack -> 
-* language -> c++, Python
-* tools -> Direct, WIN API 
-
-* * *
-
-### 💻 Education Training
-
-#### RAPA (한국전파진흥협회) -> 클라우드 교육 기관
-* 2020.05.11 ~ 20.10.30 
-
-
-#### SGA (Seoul Game Academy)
-* 2021.04.19 ~ 2021.08.08
-
-#### SSAC
-* 2021.08.02 ~ 
-
-
-
-### 🎓 EDUCATION
-#### University : SuncheonJeil 
-*  Computer Science
-*  2016.03.01 ~ 2018.02.01  
-
-
 * * *
 ### 🎮 PROJECT
 | project | environment |  |
@@ -65,9 +34,3 @@ Contact me! <wldus5059@gmail.com>
 | Monitoring | <a href="https://github.com/lechangjun/STUDY_Monitoring" target="_blank">github</a> | <a href="https://github.com/lechangjun/STUDY_Monitoring" target="_blank">Monitoring</a> |
 
 ---------------------------------------------------------------------------------------------------------
-### Interests (๑・‿・๑)
-
-| name | link | reference |
-|-------|--------|--------|
-| GO | <a href="https://github.com/lechangjun/go" target="_blank">github</a> | <a href="https://github.com/golang" target="_blank">GO</a> |
-| Kubernetes | <a href="https://github.com/lechangjun" target="_blank">github</a> | <a href="https://github.com/topics/kubernetes" target="_blank">kubernetes</a> |
