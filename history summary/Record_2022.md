@@ -36,8 +36,8 @@ Contact me! <wldus5059@gmail.com>
 ### 🎮 PROJECT
 | project | environment |  |
 |-------|--------|-------|
-| <a href="https://github.com/lechangjun/PORTFOLIO--OpenShift_Deploy" target="_blank">OpenShift</a> | xxxx, xxxx | 2021-xx ~ 2022-xx  |
+| <a href="https://github.com/lechangjun/PORTFOLIO--OpenShift_Deploy" target="_blank">xxxxt</a> | xxxx, xxxx | 2021-xx ~ 2022-xx  |
 
-
+| project | environment |  |
 |-------|--------|-------|
-| <a href="https://github.com/lechangjun/PORTFOLIO--OpenShift_Deploy" target="_blank">OpenShift</a> | xxxxx, xxxx | 2022-06 ~ 2022-10  |
+| <a href="https://github.com/lechangjun/PORTFOLIO--OpenShift_Deploy" target="_blank">xxxxt</a> | xxxxx, xxxx | 2022-06 ~ 2022-10  |
